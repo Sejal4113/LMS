@@ -1,0 +1,124 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body {
+    padding: 0;
+    width: auto;
+    margin: 0;
+}
+
+.wrapper {
+    height: 660px;
+    /* max-width: 920px;
+    margin: 0 auto; */
+    width: auto;
+    border: 1px solid #000;
+}
+
+header {
+    height: 170px;
+    width: auto;
+    background-color: black;
+    padding: 10px;
+    margin: 0;
+    border-bottom: #eee;
+
+}
+
+section {
+    height: 667px;
+    width: auto;
+    background-color: grey;
+    margin-top: 0px;
+}
+
+footer {
+    height: 82px;
+    width: auto;
+    background-color: black;
+}
+
+.logo {
+    float: left;
+    padding-left: 20px;
+}
+
+.logo img {
+    padding-left: 95px;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+section .sec_img {
+    height: 667px;
+    background-image: url("images/photo-1521587760476-6c12a4b040da.jpg");
+
+}
+
+.box {
+    height: 300px;
+    width: 430px;
+    background-color: #433450d9;
+    color: #fff1df;
+    margin: 60px auto;
+    opacity: .8;
+}
+
+/*------------------------------------------Student login-------------------------------------------------*/
+
+.log_img {
+    margin-top: 0px;
+    height: 667px;
+    background-image: url("images/opened-book-library-concept-reading-3120020.jpg");
+
+}
+
+.box1 {
+    height: 420px;
+    width: 450px;
+    background-color: black;
+    margin: 40px auto;
+    opacity: .7;
+    color: azure;
+    padding: 20px;
+}
+
+form .login {
+    margin: auto 70px;
+}
+
+input {
+    height: 37px;
+    width: 360px;
+    padding: 3px;
+
+}
+
+/*------------------------------------registration----------------------------------------------------*/
+.reg_img {
+    margin-top: 0px;
+    height: 670px;
+    background-image: url("images/computer-keyboard-3.jpg");
+
+}
+
+.box2 {
+    height: 580px;
+    width: 500px;
+    background-color: black;
+    margin: 0 auto;
+    opacity: .7;
+    color: azure;
+    padding: 20px;
+}
+
+form .registration {
+    margin: auto 50px;
+}
